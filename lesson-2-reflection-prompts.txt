@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-    It creates the .git folder and tells git to start keeping track of the files.
+    It creates the .git folder and tells Git to start keeping track of the files.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -15,7 +15,13 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    When testing experimental features, branches can be useful. You don't have to worry about breaking anything.
+    Branches can help create separate versions for different individuals to work on independently.
+
 How do the diagrams help you visualize the branch structure?
+
+    The diagrams help me to see how Git keeps track of the branch tips and what commits matter.
+    It makes it clearer what is going on when I run git log to see a branch's history.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
