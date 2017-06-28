@@ -31,9 +31,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would have multiple versions of the file on an external site or being
+    emailed back and forth. It would be harder to keep all the files
+    updated and working without version control when there are many versions.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It's useful to keep work separate. If many people are working on closely
+    related items, it seems safest to work in a separate branch.
+    However, if you work in master it allows your changes to be instantly
+    visible. If you only have a few collaborators it might make sense
+    to work in master.
