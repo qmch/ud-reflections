@@ -14,7 +14,11 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    We make branches when we want different versions of the same code (e.g. on a local machine).
+    A clone makes a totally separate copy of a repository. So we should clone a repository when we need a copy somewhere else.
+    For instance, we want a copy of a repository from the remote to edit locally. Or we want a local repository in a different folder.
+    We fork when we need a copy of a repository from GitHub to GitHub.
+    It lets us credit the creator and make our own changes independent of the original code.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
